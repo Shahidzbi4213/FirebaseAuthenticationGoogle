@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192225635396",
+    "project_id": "fir-authentication-8601a",
+    "storage_bucket": "fir-authentication-8601a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192225635396:android:4495339150cb9e1bcd2011",
+        "android_client_info": {
+          "package_name": "com.gulehri.edu.pk.firebaeauthenticationgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192225635396-gcpvtksvjfh075v7dv93efea61rkjokr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gulehri.edu.pk.firebaeauthenticationgoogle",
+            "certificate_hash": "e643a8178941ebd8a6bdaffe52bd63843c906cf3"
+          }
+        },
+        {
+          "client_id": "192225635396-p2k0hsdesdfmt0u3g4v4jvvetl78h8nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTSymu4H-CBQiuz2si5TCk4tcuFlma_qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192225635396-p2k0hsdesdfmt0u3g4v4jvvetl78h8nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
